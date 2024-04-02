@@ -65,7 +65,47 @@ nav ul li:last-child {
   text-align: center;
 }
 /* style for dashboard*/
-.box-content-dashboard {
+.box-conten {
+  width: 50%;
+  margin: 200px auto;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.box-conten p {
+  text-align: justify;
+}
+.box-conten button {
+  font-size: 23px;
+  color: white;
+  background-color: black;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.box-conten .downloadcv {
+  text-decoration: none;
+  color: black;
+}
+.box-conten img {
+  width: 18px;
+}
+.social-media-icons {
+  text-align: center; /* Mengatur posisi logo sosial media ke tengah */
+  margin-top: 20px; /* Menambahkan ruang antara gambar download dan logo sosial media */
+}
+.card {
+  width: 20%;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.card img {
+  width: 100%;
+}
+.card h3 {
+  text-align: center;
+}
+.card p {
+  text-align: center;
 }
 /* style for contact starts here */
 
